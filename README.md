@@ -1,6 +1,8 @@
-# Springer Free Boooks:
+# Springer Free Books — catálogo de libros gratuitos
 
-_Springer_ has released some 400+ books on various categories and we've made them all available for you to download a excel file with the books' links.
+**En una frase:** hoja de Excel con los enlaces de más de 400 libros que Springer liberó gratuitamente (2020), organizada para consulta de estudiantes.
 
-## __NOTE:__ 
-Share with all those students who cannot afford books please.
+## Contenido
+- `Free Springer Books.xlsx` — título, categoría y enlace de cada libro.
+
+Los libros pertenecen a Springer; este repositorio solo organiza los enlaces.
